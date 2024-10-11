@@ -1,0 +1,66 @@
+{
+    "id": "2004MaHSA",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Bildungsstandards Mathematik HSA 2004"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v52",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "a1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Allgemeine mathematische Kompetenzen"
+          }
+        ],
+        "filenameSource": "a1_Allgemeine_mathematische_Kompetenzen.csv",
+        "filenameTarget": "a1_Allgemeine_mathematische_Kompetenzen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Mit dem Erwerb des Hauptschulabschlusses nach Klasse 9 sollen Schülerinnen und Schüler über die nachfolgend genannten allgemeinen mathematischen Kompetenzen verfügen, die für alle Ebenen des mathematischen Arbeitens relevant sind. Diese Kompetenzen werden immer im Verbund erworben bzw. angewendet.\"\""
+          }
+        ]
+      },
+      {
+        "id": "k1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Standards für inhaltsbezogene Kompetenzen im Fach Mathematik"
+          }
+        ],
+        "filenameSource": "k1_Standards_Kompetenzbereiche.csv",
+        "filenameTarget": "k1_Standards_Kompetenzbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "n1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Anforderungsbereiche"
+          }
+        ],
+        "filenameSource": "n1_Anforderungsbereiche.csv",
+        "filenameTarget": "n1_Anforderungsbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Zum Lösen mathematischer Aufgaben werden die allgemeinen mathematischen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche unterscheiden: Reproduzieren, Zusammenhänge herstellen sowie Verallgemeinern und Reflektieren. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich zu Anforderungsbereich zu. \n\nDie Anforderungsbereiche sind für alle allgemeinen mathematischen Kompetenzen wie folgt charakterisiert:\"\""
+          }
+        ]
+      }
+    ]
+  }
