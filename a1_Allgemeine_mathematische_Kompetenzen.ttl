@@ -201,7 +201,7 @@ n1:v4r
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Mathematik HSA 2004 - Allgemeine mathematische Kompetenzen"@de;
+	dct:title "Bildungsstandards Mathematik HSA 2004 - Allgemeine Kompetenzen"@de;
 	dct:description """Mit dem Erwerb des Hauptschulabschlusses nach Klasse 9 sollen Schülerinnen und Schüler über die nachfolgend genannten allgemeinen mathematischen Kompetenzen verfügen, die für alle Ebenen des mathematischen Arbeitens relevant sind. Diese Kompetenzen werden immer im Verbund erworben bzw. angewendet."""@de;
 	skos:hasTopConcept
 		n1:v4r.

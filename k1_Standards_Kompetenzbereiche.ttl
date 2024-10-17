@@ -318,8 +318,8 @@ n1:u3z
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Mathematik HSA 2004 - Standards für inhaltsbezogene Kompetenzen im Fach Mathematik"@de;
-	dc:title "Bildungsstandards Mathematik HSA 2004 - Standards für inhaltsbezogene Kompetenzen im Fach Mathematik"@de;
-	dc:description "Bildungsstandards Mathematik HSA 2004 - Standards für inhaltsbezogene Kompetenzen im Fach Mathematik"@de;
+	dct:title "Bildungsstandards Mathematik HSA 2004 - Inhaltsbezogene Kompetenzen"@de;
+	dc:title "Bildungsstandards Mathematik HSA 2004 - Inhaltsbezogene Kompetenzen"@de;
+	dc:description "Bildungsstandards Mathematik HSA 2004 - Inhaltsbezogene Kompetenzen"@de;
 	skos:hasTopConcept
 		n1:u3z.
