@@ -259,40 +259,34 @@ n1:v2e
 	skos:notation "L 5.1";
 	skos:broader n1:x4s;
 	skos:prefLabel "werten graphische Darstellungen und Tabellen von statistischen Erhebungen aus,"@de.
-n1:r6b
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "L 5.2";
-	skos:broader n1:x4s;
-	skos:prefLabel "werten graphische Darstellungen und Tabellen von statistischen Erhebungen aus,"@de.
 n1:s7t
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "L 5.3";
+	skos:notation "L 5.2";
 	skos:broader n1:x4s;
 	skos:prefLabel "sammeln systematisch Daten, erfassen sie in Tabellen und stellen sie graphisch dar, auch unter Verwendung geeigneter Hilfsmittel wie Software,"@de.
 n1:u9d
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "L 5.4";
+	skos:notation "L 5.3";
 	skos:broader n1:x4s;
 	skos:prefLabel "berechnen und interpretieren Häufigkeiten und Mittelwerte,"@de.
 n1:u5u
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "L 5.5";
+	skos:notation "L 5.4";
 	skos:broader n1:x4s;
 	skos:prefLabel "beschreiben Zufallserscheinungen in alltäglichen Situationen,"@de.
 n1:g9v
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "L 5.6";
+	skos:notation "L 5.5";
 	skos:broader n1:x4s;
 	skos:prefLabel "interpretieren Wahrscheinlichkeitsaussagen aus dem Alltag,"@de.
 n1:f3e
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "L 5.7";
+	skos:notation "L 5.6";
 	skos:broader n1:x4s;
 	skos:prefLabel "bestimmen Wahrscheinlichkeiten bei einfachen Zufallsexperimenten."@de.
 n1:x4s
@@ -304,7 +298,6 @@ n1:x4s
 	skos:definition "Die Schülerinnen und Schüler"@de;
 	skos:narrower 
 		n1:v2e,
-		n1:r6b,
 		n1:s7t,
 		n1:u9d,
 		n1:u5u,
@@ -315,7 +308,7 @@ n1:u3z
 	skos:inScheme n0:;
 	skos:notation "L ";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Mathematische Leitideen"@de;
+	skos:prefLabel "Inhaltsbezogene Kompetenzen"@de;
 	skos:narrower 
 		n1:y6g,
 		n1:b4q,
